@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFTI 32. Thirty programming exercise", "MFTI 32. Thirty programming exercise\MFTI 32. Thirty programming exercise.vcxproj", "{2793948B-89A1-46DC-B5F8-909C8A15D7FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2793948B-89A1-46DC-B5F8-909C8A15D7FA}.Debug|x64.ActiveCfg = Debug|x64
+		{2793948B-89A1-46DC-B5F8-909C8A15D7FA}.Debug|x64.Build.0 = Debug|x64
+		{2793948B-89A1-46DC-B5F8-909C8A15D7FA}.Debug|x86.ActiveCfg = Debug|Win32
+		{2793948B-89A1-46DC-B5F8-909C8A15D7FA}.Debug|x86.Build.0 = Debug|Win32
+		{2793948B-89A1-46DC-B5F8-909C8A15D7FA}.Release|x64.ActiveCfg = Release|x64
+		{2793948B-89A1-46DC-B5F8-909C8A15D7FA}.Release|x64.Build.0 = Release|x64
+		{2793948B-89A1-46DC-B5F8-909C8A15D7FA}.Release|x86.ActiveCfg = Release|Win32
+		{2793948B-89A1-46DC-B5F8-909C8A15D7FA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43C0DE4D-5018-42C8-BF40-B28A197F806E}
+	EndGlobalSection
+EndGlobal
