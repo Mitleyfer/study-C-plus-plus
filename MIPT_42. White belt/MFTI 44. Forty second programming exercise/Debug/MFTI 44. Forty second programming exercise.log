@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\dzerg\source\repos\MFTI 44. Forty second programming exercise\MFTI 44. Forty second programming exercise\Source.cpp(26,36): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\dzerg\source\repos\MFTI 44. Forty second programming exercise\MFTI 44. Forty second programming exercise\Source.cpp(29,41): warning C4018: '<=': signed/unsigned mismatch
+  MFTI 44. Forty second programming exercise.vcxproj -> C:\Users\dzerg\source\repos\MFTI 44. Forty second programming exercise\Debug\MFTI 44. Forty second programming exercise.exe

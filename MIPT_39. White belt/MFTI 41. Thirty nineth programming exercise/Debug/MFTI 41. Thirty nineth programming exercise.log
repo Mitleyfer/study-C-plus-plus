@@ -1,0 +1,3 @@
+﻿  Source1.cpp
+Source1.obj : error LNK2005: _main already defined in Source.obj
+C:\Users\dzerg\source\repos\MFTI 41. Thirty nineth programming exercise\Debug\MFTI 41. Thirty nineth programming exercise.exe : fatal error LNK1169: one or more multiply defined symbols found
